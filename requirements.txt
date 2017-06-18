@@ -1,0 +1,11 @@
+Requirements -
+
+- Python2.7
+- BeautifulSoup
+- Urllib2
+- Wikipedia
+- ctypes
+- SpeechRecognition
+- pyaudio
+- ssl
+- webbrowser
